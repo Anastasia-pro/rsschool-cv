@@ -1,6 +1,6 @@
 1. My name is **Anastasia Ivanova**.
 2. My _phone number_ is **+375 25 726 76 80**. _Email_: **belentsovaa084@gmail.com**.
-3. I don't have much experience in JavaScript programming. I have made several layouts of sites in HTML / CSS, at the moment I am actively studying JavaScript. I have read many sources, and I am intensively learning a new programming language for me. At the moment my main goal is to study the language up to the interview level, and finish school.
+3. I don't have much experience in JavaScript programming. I have made several layouts of sites in HTML / CSS, at the moment I am actively studying JavaScript. I have read many sources, and I am intensively learning a new programming language. At the moment my main goal is to study the language up to the interview level, and finish school.
 4. At the moment I am fluent in programming languages such as HTML/CSS, and studying JavaScript
 -------------
 5.  

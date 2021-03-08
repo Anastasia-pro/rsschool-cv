@@ -24,4 +24,4 @@ window.onload = function () {
 };
 ```
 7. I have no specialized education as a programmer. I have a legal education. I did not take courses. I studied in the Sololearn app.
-8. English level: **A2**.
+8. _English level: **A2**._

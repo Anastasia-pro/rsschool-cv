@@ -5,7 +5,7 @@
 -------------
 5.  
 ```
-**window.onload = function () {
+window.onload = function () {
     let pos = document.getElementById('flexb');
     for(let i=0; i < arr.length; i++) {
         const element = arr[i];
@@ -21,7 +21,7 @@
         image.src = el.photo;
         pos.appendChild(image);
     }
-};**
+};
 ```
 7. I have no specialized education as a programmer. I have a legal education. I did not take courses. I studied in the Sololearn app.
 8. _English level: **A2**._

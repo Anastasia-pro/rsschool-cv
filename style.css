@@ -10,6 +10,8 @@
     height: 190vh;
     flex-direction: column;
     align-items: center;
+    width: 80%;
+    margin: auto;
 }
 .head{
     display: flex;
